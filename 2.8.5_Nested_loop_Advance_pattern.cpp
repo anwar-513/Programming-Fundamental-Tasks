@@ -62,8 +62,8 @@ int main()
 //	pattern14(number);
 //    cout<<"\n~~~Pattern 15~~~"<<endl;
 //	pattern15(number);
-      cout<<"\n~~~Pattern 16~~~"<<endl;
-	pattern16(number);
+//    cout<<"\n~~~Pattern 16~~~"<<endl;
+/(	pattern16(number);
 //    cout<<"\n~~~Pattern 17~~~"<<endl;
 //	pattern17(number);
 //    cout<<"\n~~~Pattern 18~~~"<<endl;
