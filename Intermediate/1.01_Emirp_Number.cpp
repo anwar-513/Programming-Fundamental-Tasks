@@ -1,3 +1,7 @@
+
+
+    /*Emirp Number, those prime numbers which when reversed give another prime number but are not palindromic*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -24,7 +28,6 @@ bool isPrime(int num)
 
 int main()
 {
-    /*Emirp Number, those prime numbers which when reversed give another prime number but are not palindromic*/
 
     int number;
     int tester;
@@ -34,7 +37,6 @@ int main()
     cout << "Enter Number for testing---> ";
     cin >> number;
 
-    /*Checking if prime*/
 
     if (!isPrime(number))
     {
@@ -42,7 +44,6 @@ int main()
         return 0;
     }
 
-    /*Reversing Number*/
     tester = number;
     while (tester > 0)
     {
