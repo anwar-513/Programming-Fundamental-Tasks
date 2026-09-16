@@ -41,9 +41,9 @@ int main() {
         right--;
     }
 
-    cout<<"Entered Text---> "<<text<<endl;
     if (isPalindrome) 
 	{
+        cout<<text<<endl;
         cout<<"Result: Valid Palindrome"<<endl;
     }
 	else 
